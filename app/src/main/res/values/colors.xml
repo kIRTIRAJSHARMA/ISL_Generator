@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorSecondaryVariant">#018786</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+    <color name="customRed">#FF0000</color>
+    <color name="customGreen">#00FF00</color>
+    <color name="customBlue">#0000FF</color>
+    <color name="customYellow">#FFFF00</color>
+    <color name="customOrange">#FFA500</color>
+    <color name="customPurple">#800080</color>
+    <color name="customCyan">#00FFFF</color>
+    <color name="customMagenta">#FF00FF</color>
+    <color name="customBrown">#A52A2A</color>
+    <color name="customGray">#808080</color>
+    <color name="customLightGray">#D3D3D3</color>
+    <color name="customDarkGray">#A9A9A9</color>
+    <color name="customPink">#FFC0CB</color>
+    <color name="customTeal">#008080</color>
+    <color name="customLime">#00FF00</color>
+</resources>
